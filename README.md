@@ -42,6 +42,8 @@ To interact with the Degen Token smart contract using Remix, Metamask, and Snowt
 - Users can check their token balances using the checkTokenBalance function in Remix.
 - Input the address for which you want to check the token balance.
 
+For more details regarding the setup on the Avalanche platform, follow the instructions on GUIDE.md
+
 ## Authors
 
 Rylan Torres  
